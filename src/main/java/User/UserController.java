@@ -30,5 +30,4 @@ public class UserController {
 //        return env.getProperty("greeting.message");
         return greeting.getMessage();
     }
-
 }
