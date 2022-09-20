@@ -1,4 +1,4 @@
-package User;
+package com.example.usermicroservice.User;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
