@@ -18,10 +18,10 @@ spring:
   jpa:
     properties:
       hibernate:
-        dialect: org.hibernate.dialect.h2
+        dialect: org.hibernate.dialect.H2Dialect
         format_sql: 'true'
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
     show-sql: 'true'
 
 
